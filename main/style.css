@@ -1,0 +1,12 @@
+/* Style für nichtgenutzten header */
+header {
+    background-color: white;
+    padding: 2px;
+    text-align: center;
+}
+/* Style Überschriften muss noch FH Standard angepasst werden */
+h1, h2, h3, p {
+    font-family: sans-serif;
+    color: #012e58;
+    text-align: center;
+}
